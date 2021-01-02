@@ -1,0 +1,21 @@
+{
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3",
+    "python.envFile": ".env" 
+}
+=======
+<<<<<<< HEAD
+    "python.pythonPath": "/opt/anaconda3/bin/python"
+}
+=======
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3",
+    "python.envFile": ".env" 
+}
+>>>>>>> c6e2a7fd... added spotify api
+>>>>>>> 9ae9138d... added spotify api
+=======
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3",
+    "python.envFile": ".env" 
+}
+>>>>>>> 6d3401ba... updated views and urls
