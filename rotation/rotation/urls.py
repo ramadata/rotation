@@ -20,19 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('api.urls')),
     path('', include('frontend.urls')),
-<<<<<<< HEAD
-<<<<<<< HEAD
     path('spotify/', include('spotify.urls')),
 ] 
-=======
-<<<<<<< HEAD
-]
-=======
-    path('spotify/', include('spotify.urls')),
-] 
->>>>>>> c6e2a7fd... added spotify api
->>>>>>> 9ae9138d... added spotify api
-=======
-    path('spotify/', include('spotify.urls')),
-] 
->>>>>>> 6d3401ba... updated views and urls

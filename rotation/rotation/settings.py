@@ -39,22 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'api.apps.ApiConfig',
-<<<<<<< HEAD
-<<<<<<< HEAD
     'frontend.apps.FrontendConfig',
     'spotify.apps.SpotifyConfig',
-=======
-<<<<<<< HEAD
-    'frontend.apps.FrontendConfig'
-=======
-    'frontend.apps.FrontendConfig',
-    'spotify.apps.SpotifyConfig',
->>>>>>> c6e2a7fd... added spotify api
->>>>>>> 9ae9138d... added spotify api
-=======
-    'frontend.apps.FrontendConfig',
-    'spotify.apps.SpotifyConfig',
->>>>>>> 6d3401ba... updated views and urls
 ]
 
 MIDDLEWARE = [
